@@ -7,17 +7,17 @@
 ### Структура репозитория
 
 1. **Анализ рынка поддержанных автомобилей** 
-*Car price prediction model*
+*(Car price prediction model)*
 - Car price prediction model.ipynb – файл c аналитическим исследованием данных на Python
 - Airflow – файлы, обеспечивающие ETL-процесс для автоматизации обработки данных, а также скриншот с результатом работы
 
 2. **Анализ данных по продаже продуктов питания** 
-*Food sales*
+*(Food sales)*
 - Food sales analysis report.pdf – отчёт с описанием выполненных задач
 - Power BI report.pdf – дашборды из Power BI
 
 3. **Анализ покупок в 10-ти торговых центрах Стамбула** 
-*Istanbul shopping centre sales*
+*(Istanbul shopping centre sales)*
 - Istanbul sales analysis report.pdf – отчёт с описанием выполненных задач
 - Preset report.pdf - дашборд из Preset.io
 
